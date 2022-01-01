@@ -1,0 +1,23 @@
+South Africa North: 102.133.196.95
+East Australia: 20.53.213.241
+South East Australia: 40.115.72.13
+Central India: 20.193.245.189
+East Asia: 13.75.49.198
+East Japan: 20.89.85.19
+West Japan: 104.46.232.223
+Korea Central: 52.231.54.189
+Southeast Asia: 20.43.154.231
+France Central: 20.74.65.21
+North Europe: 20.93.96.74
+UK South: Failed Lookup
+West Europe: 20.82.62.217
+UAE North: 20.74.182.196
+South Brazil: 20.201.11.149
+Central US: 20.84.128.18
+East US: 52.152.253.13
+East US 2: 52.184.222.204
+North Central US: 20.98.11.58
+South Central US: 40.74.160.107
+West Central US: 13.78.193.82
+West US: 13.73.33.93
+West US 2: 20.99.161.82

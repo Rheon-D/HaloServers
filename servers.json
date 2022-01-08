@@ -92,7 +92,7 @@
       "Region":"UK South",
       "Location":"London",
       "Hostnames":[
-         "pfmsqos.uksouth.clouapp.azure.com"
+         "pfmsqos.uksouth.cloudapp.azure.com"
       ]
    },
    {

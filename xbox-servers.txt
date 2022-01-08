@@ -9,7 +9,7 @@ Korea Central: 52.231.54.189
 Southeast Asia: 20.43.154.231
 France Central: 20.74.65.21
 North Europe: 20.93.96.74
-UK South: Failed Lookup
+UK South: 20.49.173.164
 West Europe: 20.82.62.217
 UAE North: 20.74.182.196
 South Brazil: 20.201.11.149
